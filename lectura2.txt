@@ -1,0 +1,5 @@
+01heraldo  0156ursa
+02cruzado  1560mono
+03arconte  2705void
+04heraldo  0540invoker
+05leyenda  3300troll

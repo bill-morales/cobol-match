@@ -1,0 +1,5 @@
+01jose  Arguedas  000003600heraldo  0156
+02Danielvelasques 000004200cruzado  1560
+03max   salvador  000001500arconte  2705
+04hectorsanta cruz000005000heraldo  0540
+05miguelmatuzaso  000003478leyenda  3300
